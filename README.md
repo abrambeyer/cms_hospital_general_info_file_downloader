@@ -28,7 +28,7 @@ Hospital Compare provides data on over 4,000 Medicare-certified hospitals, inclu
 
 * Final Output:
   Should output an Excel file to the data folder which includes all revised flatfile "Hospital General Informationc.csv" file data for every year on 
-  the https://data.cms.gov/provider-data/archived-data/hospitals site excluding data for years 2015 and 2014.  2015 and 2014 are excluded because their
+  the *[archive page](https://data.cms.gov/provider-data/archived-data/hospitals)* excluding data for years 2015 and 2014.  2015 and 2014 are excluded because their
   Hospital General Information files only include hospital contact information rather than CMS Star Rating.
 
 
