@@ -1,6 +1,8 @@
 # cms_hospital_general_info_file_downloader
 
-The project collects and wrangles all archived Hospital General Information.csv files from cms.gov  (Centers for Medicare and Medicaid Services).  The purpose of this project is collect all yearly revised files, join them together.  Finally, perform and exploratory analysis of all CMS hospital Overall CMS Star Ratings.
+The project collects and wrangles all archived Hospital General Information.csv files from cms.gov  (Centers for Medicare and Medicaid Services)  *[archive page](https://data.cms.gov/provider-data/archived-data/hospitals)*.  The purpose of this project is collect all yearly revised files, join them together.  Finally, perform and exploratory analysis of all CMS hospital Overall CMS Star Ratings.
+
+The data is made available by *[CMS.gov](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/HospitalQualityInits/HospitalCompare)*
 
 The goal of this project is to better understand the CMS Star Overall Rating for all Medicare hospitals.
 
